@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# svg / https://www.notion.so/highereducation/svg-e18426a1b2214849b8a2a14990aea88d
+# svg / https://github.com/jasoncomes/SVG-Liquid-Tag
 # Takes the `path` of the svg and outputs/sanitizes it's content and embeds the svg within the designated area on the page.
 # {% svg path:"/assets/img/logo.svg" %}
 
